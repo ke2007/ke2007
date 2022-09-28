@@ -29,9 +29,5 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> 
   <br>
   <br>
-<h2 align="left">🦝's 잘 쓰는 Tool..:</h3>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a> 
-  
 
-  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ke2007&show_icons=true&theme=cobalt)
