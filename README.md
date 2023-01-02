@@ -3,7 +3,7 @@
 <hr>
 
 
-<h3 align="center">"알고리즘 문제풀이와 ToyProject(예정) 를 깃허브에 업로드 중 !!! "
+<h3 align="center">"알고리즘 문제풀이와 ToyProject를 깃허브에 업로드 중 !!! "
 <hr>
 <br>
 <br>
