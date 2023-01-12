@@ -17,5 +17,3 @@
 
   <br>
   <hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ke2007&show_icons=true&theme=cobalt)
