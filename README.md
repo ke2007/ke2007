@@ -16,4 +16,5 @@
     <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="css3" width="60" height="60"/> </a></p>
 
   <br>
-  <hr>
+    
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ke2007)](https://github.com/anuraghazra/github-readme-stats)
