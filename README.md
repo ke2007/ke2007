@@ -58,5 +58,5 @@
 ---
 
 <div align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>⚡ 바퀴(벌레아님)를 다시 발명하라 - Reinvent the Wheel ⚡ </i>
 </div>
