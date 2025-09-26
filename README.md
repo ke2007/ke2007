@@ -6,6 +6,9 @@
   
   ### 📚  혼자만 쓸 프로그램 커밋 중입니다
   
+
+  #### ⚡ 바퀴(벌레아님)를 다시 발명하라 - Reinvent the Wheel ⚡
+
 </div>
 
 <br>
@@ -57,6 +60,3 @@
 
 ---
 
-<div align="center">
-  <i>⚡ 바퀴(벌레아님)를 다시 발명하라 - Reinvent the Wheel ⚡ </i>
-</div>
